@@ -1,6 +1,6 @@
 Privacy Policy
 
-Welcome to the "4U - Privacy Photo Album 4U - 隐私相册" application! We take your privacy very seriously. Please read the following Privacy Policy carefully before using this application to understand how we collect, use, and protect your personal information.
+Welcome to the "4U - Privacy Photo Album " application! We take your privacy very seriously. Please read the following Privacy Policy carefully before using this application to understand how we collect, use, and protect your personal information.
 
 Information Collection and Use
 

@@ -17,7 +17,7 @@ Our application does not perform any cloud backups, ensuring that your photos an
 We believe that your phone's password is already strong enough, and therefore, there is no need for additional media encryption technology. The privacy photo album aims to provide simple yet effective privacy protection, particularly suitable for safeguarding against familiar individuals.
 Contact Us
 
-Google Ad Services: Our application uses Google AdMob services to display advertisements. Google AdMob utilizes unique identifiers on the device, such as the Advertising Identifier (IDFA) or Android Advertising ID, to provide ad targeting and delivery.
+Google Ad Services: Our application uses Google AdMob services to display advertisements. Google AdMob utilizes unique identifiers on the device, such as the Advertising Identifier (IDFA)  to provide ad targeting and delivery.
 
 Here are some key points regarding Google Ad Services:
 
